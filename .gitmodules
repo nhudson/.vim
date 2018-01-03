@@ -85,3 +85,6 @@
 [submodule "bundle/vim-pug"]
 	path = bundle/vim-pug
 	url = https://github.com/digitaltoad/vim-pug.git
+[submodule "bundle/traces.vim"]
+	path = bundle/traces.vim
+	url = https://github.com/xtal8/traces.vim.git
