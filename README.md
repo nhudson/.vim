@@ -28,6 +28,7 @@ Currently using version 2.2 of Pathogen
 * [github.com/vivien/vim-linux-coding-style](https://github.com/vivien/vim-linux-coding-style.git)
 * [github.com/scrooloose/nerdtree](https://github.com/scrooloose/nerdtree.git)
 * [github.com/godlygeek/tabular](https://github.com/godlygeek/tabular.git)
+* [github.com/xtal8/traces.vim](https://github.com/xtal8/traces.vim.git)
 * [github.com/vim-airline/vim-airline](https://github.com/vim-airline/vim-airline.git)
 * [github.com/vim-airline/vim-airline-themes](https://github.com/vim-airline/vim-airline-themes.git)
 * [github.com/moll/vim-bbye](https://github.com/moll/vim-bbye.git)
