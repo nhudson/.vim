@@ -556,4 +556,15 @@ if !g:remoteSession
   let g:airline_powerline_fonts=1
 endif
 
+" =================== A.L.E ========================
+highlight clear ALEErrorSign
+highlight clear ALEWarningSign
+
+let g:ale_fixers = {
+\   'javascript': ['eslint'],
+\}
+
+let g:ale_fix_on_save = 1
+let g:ale_completion_enabled = 1
+
 " vim:ts=2:sw=2:et

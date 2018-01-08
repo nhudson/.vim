@@ -88,3 +88,6 @@
 [submodule "bundle/traces.vim"]
 	path = bundle/traces.vim
 	url = https://github.com/xtal8/traces.vim.git
+[submodule "bundle/ale"]
+	path = bundle/ale
+	url = https://github.com/w0rp/ale.git

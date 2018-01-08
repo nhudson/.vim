@@ -20,7 +20,7 @@ Currently using version 2.2 of Pathogen
 
 ## Plugins Used
 
-* [Dockerfile](https://github.com/docker/docker/tree/master/contrib/syntax/vim)
+* [github.com/w0rp/ale](https://github.com/w0rp/ale.git)
 * [github.com/ctrlpvim/ctrlp.vim](https://github.com/ctrlpvim/ctrlp.vim.git)
 * [github.com/Raimondi/delimitMate](https://github.com/Raimondi/delimitMate.git)
 * [github.com/zchee/deoplete-go](https://github.com/zchee/deoplete-go.git)
