@@ -13,6 +13,15 @@ $ cd $HOME/.vim
 $ git submodule update --init
 ```
 
+## Add plugins
+To add in new plugins run the following commands.
+
+```console
+$ cd ~/.vim
+$ git submodule add https://github.com/w0rp/ale.git bundle/ale
+$ git submodule init
+```
+
 ## Pathogen
 The vim dot files make use of the excellent [Pathogen](https://github.com/tpope/vim-pathogen) runtime path manager to install plugins and runtime files into their own private directiories.
 
