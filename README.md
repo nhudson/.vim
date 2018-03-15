@@ -31,6 +31,7 @@ Currently using version 2.2 of Pathogen
 
 * [github.com/martinda/Jenkinsfile-vim-syntax](https://github.com/martinda/Jenkinsfile-vim-syntax.git)
 * [github.com/w0rp/ale](https://github.com/w0rp/ale.git)
+* [github.com/pearofducks/ansible-vim](https://github.com/pearofducks/ansible-vim)
 * [github.com/ctrlpvim/ctrlp.vim](https://github.com/ctrlpvim/ctrlp.vim.git)
 * [github.com/Raimondi/delimitMate](https://github.com/Raimondi/delimitMate.git)
 * [github.com/zchee/deoplete-go](https://github.com/zchee/deoplete-go.git)
