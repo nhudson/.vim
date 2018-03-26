@@ -55,6 +55,7 @@ Currently using version 2.2 of Pathogen
 * [github.com/Yggdroot/indentLine](https://github.com/Yggdroot/indentLine.git)
 * [github.com/lepture/vim-jinja](https://github.com/lepture/vim-jinja.git)
 * [github.com/elzr/vim-json](https://github.com/elzr/vim-json.git)
+* [github.com/plasticboy/vim-markdown](https://github.com/plasticboy/vim-markdown.git)
 * [github.com/terryma/vim-multiple-cursors](https://github.com/terryma/vim-multiple-cursors.git)
 * [github.com/fatih/vim-nginx](https://github.com/fatih/vim-nginx.git)
 * [github.com/daltoad/vim-pug.git](https://github.com/digitaltoad/vim-pug.git)
