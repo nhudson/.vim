@@ -579,4 +579,9 @@ let g:vim_markdown_new_list_item_indent = 2
 let g:vim_markdown_no_extensions_in_markdown = 1
 let g:vim_markdown_autowrite = 1
 
+"================ vim-terraform ======================
+autocmd BufEnter *.tf* colorscheme icansee
+let g:terraform_fmt_on_save=1
+let g:terraform_align=1
+
 " vim:ts=2:sw=2:et
