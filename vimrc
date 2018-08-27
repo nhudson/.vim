@@ -117,7 +117,7 @@ inoremap <C-U> <C-G>u<C-U>
 
 " In many terminal emulators the mouse works just fine, thus enable it.
 if has('mouse')
-  set mouse=a
+  set mouse=r
 endif
 
 " If linux then set ttymouse
@@ -566,6 +566,7 @@ let g:ale_fixers = {
 
 let g:ale_fix_on_save = 1
 let g:ale_completion_enabled = 1
+let g:ale_linters = {'go': ['gometalinter']}
 
 " =============== vim-markdown ======================
 let g:vim_markdown_folding_style_pythonic = 1
