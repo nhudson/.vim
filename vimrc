@@ -177,7 +177,9 @@ let g:solarized_termcolors=256
 let g:solarized_termtrans=1
 " let g:hybrid_use_Xresources = 1
 " let g:rehash256 = 1
-colorscheme solarized
+colorscheme material
+let g:material_theme_style = "dark"
+let g:material_terminal_italics = 1
 set guifont=Inconsolata:h15
 set guioptions-=L
 
