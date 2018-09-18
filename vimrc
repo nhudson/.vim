@@ -180,7 +180,7 @@ let g:solarized_termtrans=1
 colorscheme material
 let g:material_theme_style = "dark"
 let g:material_terminal_italics = 1
-set guifont=Inconsolata:h15
+set guifont=Fira\ Mono:h15
 set guioptions-=L
 
 " This comes first, because we have mappings that depend on leader
