@@ -583,7 +583,7 @@ let g:vim_markdown_no_extensions_in_markdown = 1
 let g:vim_markdown_autowrite = 1
 
 "================ vim-terraform ======================
-autocmd BufEnter *.tf* colorscheme icansee
+autocmd BufEnter *.tf* colorscheme material
 let g:terraform_fmt_on_save=1
 let g:terraform_align=1
 
