@@ -37,7 +37,6 @@ Currently using version 2.2 of Pathogen
 * [github.com/zchee/deoplete-go](https://github.com/zchee/deoplete-go.git)
 * [github.com/Shougo/deoplete.nvim](https://github.com/Shougo/deoplete.nvim.git)
 * [github.com/vivien/vim-linux-coding-style](https://github.com/vivien/vim-linux-coding-style.git)
-* [github.com/Shougo/neocomplete.vim](https://github.com/Shougo/neocomplete.vim.git)
 * [github.com/scrooloose/nerdtree](https://github.com/scrooloose/nerdtree.git)
 * [github.com/godlygeek/tabular](https://github.com/godlygeek/tabular.git)
 * [github.com/xtal8/traces.vim](https://github.com/xtal8/traces.vim.git)

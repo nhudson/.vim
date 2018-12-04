@@ -514,9 +514,9 @@ if has('nvim')
 
 
   " Use partial fuzzy matches like YouCompleteMe
-  call deoplete#custom#set('_', 'matchers', ['matcher_fuzzy'])
-  call deoplete#custom#set('_', 'converters', ['converter_remove_paren'])
-  call deoplete#custom#set('_', 'disabled_syntaxes', ['Comment', 'String'])
+  " call deoplete#custom#set('_', 'matchers', ['matcher_fuzzy'])
+  " call deoplete#custom#set('_', 'converters', ['converter_remove_paren'])
+  " call deoplete#custom#set('_', 'disabled_syntaxes', ['Comment', 'String'])
 endif
 
 " ==================== vim-multiple-cursors ====================
