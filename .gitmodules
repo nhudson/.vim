@@ -106,3 +106,6 @@
 [submodule "bundle/vim-terraform"]
 	path = bundle/vim-terraform
 	url = https://github.com/hashivim/vim-terraform.git
+[submodule "bundle/vim-godebug"]
+	path = bundle/vim-godebug
+	url = https://github.com/jodosha/vim-godebug.git
