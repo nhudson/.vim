@@ -439,6 +439,10 @@ let g:go_fmt_command = "goimports"
 let g:go_autodetect_gopath = 1
 let g:go_term_enabled = 1
 let g:go_snippet_engine = "neosnippet"
+let g:go_highlight_types = 1
+let g:go_highlight_fields = 1
+let g:go_highlight_functions = 1
+let g:go_highlight_function_calls = 1
 let g:go_highlight_space_tab_error = 0
 let g:go_highlight_array_whitespace_error = 0
 let g:go_highlight_trailing_whitespace_error = 0
@@ -588,3 +592,6 @@ let g:terraform_fmt_on_save=1
 let g:terraform_align=1
 
 " vim:ts=2:sw=2:et
+
+"================ neosnippet ======================
+
