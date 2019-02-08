@@ -100,15 +100,15 @@
 [submodule "bundle/ansible-vim"]
 	path = bundle/ansible-vim
 	url = https://github.com/pearofducks/ansible-vim
-[submodule "bundle/vim-markdown"]
-	path = bundle/vim-markdown
-	url = https://github.com/plasticboy/vim-markdown.git
 [submodule "bundle/vim-terraform"]
 	path = bundle/vim-terraform
 	url = https://github.com/hashivim/vim-terraform.git
 [submodule "bundle/vim-godebug"]
 	path = bundle/vim-godebug
 	url = https://github.com/jodosha/vim-godebug.git
-[submodule "bundle/vim-concourse"]
-	path = bundle/vim-concourse
-	url = https://github.com/luan/vim-concourse.git
+[submodule "bundle/vim-kubernetes"]
+	path = bundle/vim-kubernetes
+	url = https://github.com/andrewstuart/vim-kubernetes
+[submodule "bundle/bash-support"]
+	path = bundle/bash-support
+	url = https://github.com/vim-scripts/bash-support.vim.git

@@ -74,8 +74,8 @@ set showmatch
 set smarttab
 
 set et
-set tabstop=4
-set shiftwidth=4
+set tabstop=2
+set shiftwidth=2
 set expandtab
 
 set nrformats-=octal
@@ -206,6 +206,9 @@ autocmd FileType qf wincmd J
 ":clist   list all errors
 map <C-n> :cn<CR>
 map <C-m> :cp<CR>
+
+" Map shortcut to auto indent files correctly
+map <F7> mzgg=G`z
 
 nnoremap <silent> <leader>q :Sayonara<CR>
 
